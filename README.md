@@ -1,2 +1,2 @@
-# Antarmyka-Web
+# Antarmuka-Web
 Antarmuka Web
